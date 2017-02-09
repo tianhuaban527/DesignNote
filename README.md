@@ -1,3 +1,5 @@
+# DesignNote
+
 # 1. 设计基本原则
 
 ## 1.1 需要大量阅读的文字只能用黑色或白色
@@ -19,8 +21,11 @@ PPT中不要用“宋体”,尽量用黑体或雅黑
 # 3. 排版四原则 (CRAP - "垃圾"四原则)
 
 ## 3.1 Contrast 对比
+
 ## 3.2 Repeatition 重复
+
 ## 3.3 Alignment 对齐
+
 ## 3.4 Proximity 亲密
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/crap.png)
@@ -37,23 +42,51 @@ PPT中不要用“宋体”,尽量用黑体或雅黑
 
 # 5. 找字体
 
-[汉仪字体](http://www.hanyi.com.cn)
+[常用字体](http://zenozeng.github.io/Free-Chinese-Fonts/)
+
+## 5.1 汉仪字体
+
 有个百度网盘的下载
 
-[叶根友字体](http://www.yegenyou.com/)
+[汉仪字体](http://www.hanyi.com.cn)
+
+## 5.2 叶根友字体
+
 手写体
 
-[文悦字体](http://wytype.com/)
+[叶根友字体](http://www.yegenyou.com/)
+
+
+## 5.3 文悦字体
+
 文青字体
+
+[文悦字体](http://wytype.com/)
+
 ![](http://i.imgur.com/ICw3yig.png)
 
-[造字工房](http://www.makefont.com/)
+## 5.4 造字工房
+
 Free
+
+[造字工房](http://www.makefont.com/)
+
 ![](http://i.imgur.com/Qckz9So.png)
 
-[思源黑体]()
+## 5.5 思源黑体
+
+[思源黑体](https://github.com/adobe-fonts/source-han-sans)
+
+## 5.6 站酷
+
+[站酷](http://zcool.com.cn/)
+
 站酷高端黑
 站酷快乐体
+
+## 5.7 字体查找
+
+上传字体图片就能知道是什么字体。
 
 [求字体](www.qiuziti.com)
 
@@ -75,7 +108,7 @@ Free
 
 - GRATISO 一个摄影师网站
 
-[GRATISO]()
+[GRATISO](http://gratisography.com/)
 
 管理自己图库方法：桌面图片轮播
 
@@ -104,4 +137,39 @@ Free
 
 - Pixabay
 - Pexels
+
 - Coverr
+
+[Coverr](http://www.coverr.co/)
+
+# 10. 简历
+
+[乔布简历](cv.qiaobutang.com)
+
+[Office plus]()
+
+- 五百丁
+
+支持在线分享
+
+[五百丁](http://www.500d.me)
+
+## Nordri Tools
+
+把PPT生成长图
+
+# 11. H5 简历平台
+
+## MAKA
+
+[MAKA](http://www.maka.im)
+
+## 易企秀
+
+<www.eqxiu.com>
+
+## 兔展
+
+<www.rabbitpre.com>
+
+# 12. 动画、变形
