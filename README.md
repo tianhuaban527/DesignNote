@@ -98,49 +98,38 @@ Free
 
 ## 6.2 专业图库
 
-- Pixabay
+- [Pixabay](https://pixabay.com/)
 
-[Pixabay](https://pixabay.com/)
+- [Pexels](https://www.pexels.com/)
 
-- Pexels
+- [GRATISO](http://gratisography.com/) 一个摄影师网站
 
-[Pexels](https://www.pexels.com/)
-
-- GRATISO 一个摄影师网站
-
-[GRATISO](http://gratisography.com/)
 
 管理自己图库方法：桌面图片轮播
 
 # 7. 小图标
 
-- iconfinder
+- [Iconfinder](https://www.iconfinder.com/)
 
-[Iconfinder](https://www.iconfinder.com/)
+- [EASYICON](http://www.easyicon.net/)
 
-- easyicon
+- [Icons8](https://icons8.com/)
 
-[EASYICON](http://www.easyicon.net/)
+- [Human Pictogram](http://pictogram2.com/?lang=en) 火柴人
 
-- icons8
-
-[Icons8](https://icons8.com/)
-
-- human pictogram
-火柴人
-
-[Human Pictogram](http://pictogram2.com/?lang=en)
 
 # 8. 矢量图
 
+- [阿里矢量图](http://www.iconfont.cn/)
+
 # 9. 视频素材下载
 
-- Pixabay
-- Pexels
+- [Pixabay](https://pixabay.com/)
 
-- Coverr
+- [Pexels](https://www.pexels.com/)
 
-[Coverr](http://www.coverr.co/)
+- [Coverr](http://www.coverr.co/)
+
 
 # 10. 简历
 
@@ -148,7 +137,7 @@ Free
 
 [Office plus](http://www.officeplus.cn/Template/Home.shtml)
 
-- 五百丁
+## 五百丁
 
 支持在线分享
 
@@ -162,18 +151,11 @@ Free
 
 # 11. H5 简历平台
 
-## MAKA
+- [MAKA](http://www.maka.im)
 
-[MAKA](http://www.maka.im)
+- [易企秀](http://www.eqxiu.com)
 
-## 易企秀
-
-<www.eqxiu.com>
-
-## 兔展
-
-
-<www.rabbitpre.com>
+- [兔展](http://www.rabbitpre.com)
 
 
 # 12. 动画、变形
