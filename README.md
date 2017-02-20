@@ -1,6 +1,6 @@
 # DesignNote
 
-[Demo](https://tianhuaban527.github.io/DesignNote/Demo.md)
+[Demo](https://github.com/tianhuaban527/DesignNote/blob/master/Demo.md)
 
 # 1. 设计基本原则
 
