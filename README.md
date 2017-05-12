@@ -14,6 +14,10 @@
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/officeplus.png)
 
+[PPT Store](http://www.pptstore.net/)
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/pptstore.png)
+
 ## 2.2 简历
 
 [乔布简历](cv.qiaobutang.com)
