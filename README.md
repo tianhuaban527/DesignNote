@@ -2,12 +2,15 @@
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append01.jpg)
 
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/47.png)
+
+
 # 1. 基础元素
 
-- 背景
 - 形状
 - 线条
 - 图片
+- 背景
 - 文本
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append02.jpg)
@@ -24,13 +27,19 @@
 
 - 形状的作用
 
-测量、衬托信息、修饰图片、制作图表
+> 测量
 
 ![测量](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append05.jpg)
 
+> 衬托信息
+
 ![衬托信息](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append06.jpg)
 
+> 修饰图片
+
 ![修饰图片](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append07.jpg)
+
+> 制作图表
 
 ![制作图表](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append08.jpg)
 
@@ -52,7 +61,23 @@
 
 ![引导视线](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append13.jpg)
 
-## 1.3 图片
+## 1.3 图标
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/48.png)
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/49.png)
+
+- 目录页使用
+- 文字较多的页面
+- 解释图片含义
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/50.png)
+
+> 找图标
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/51.png)
+
+## 1.4 图片
 
 [找图](https://github.com/tianhuaban527/DesignNote/blob/master/FindPic.md)
 
@@ -76,7 +101,7 @@
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append18.jpg)
 
-## 1.4 背景
+## 1.5 背景
 
 - 背景类型
 
@@ -100,7 +125,7 @@
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append23.jpg)
 
-## 1.5 文本
+## 1.6 文本
 
 - 字号大小
 
@@ -116,7 +141,7 @@
 
 [【系统梳理04】PPT文本](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI4MDAzMTQ4NA%3D%3D%26mid%3D2650362477%26idx%3D1%26sn%3D6c211f4ad9b9fe65b29fcccc3bb1cd46%26scene%3D21%23wechat_redirect)
 
-## 1.6 综合应用
+## 1.7 综合应用
 
 - 图表
 
@@ -194,6 +219,12 @@
 
 ## 3.2 配色方法
 
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/64.png)
+
+- 配色原理
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/65.png)
+
 - 使用VI色
 
 VI色是指一家企业的产品的御用配色，一种你一看见就能联想起这家企业的配色。
@@ -210,9 +241,15 @@ VI色是指一家企业的产品的御用配色，一种你一看见就能联想
 
 - 使用人家的配色
 
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/66.png)
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/67.png)
+
 [找模板](https://github.com/tianhuaban527/DesignNote/blob/master/FindModel.md)
 
 ## 3.3 取色工具
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/68.png)
 
 - office 2013或以上版本：可使用PPT自带取色器取色；
 
@@ -315,9 +352,15 @@ PPT中不要用“宋体”,尽量用黑体或雅黑
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append66.jpg)
 
-# 5. 插件
+# 5. 模仿
 
-## 5.1 iSlide插件
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/61.png)
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/62.png)
+
+# 6. 插件
+
+## 6.1 iSlide插件
 
 - 精美的图表库
 
@@ -335,15 +378,51 @@ PPT中不要用“宋体”,尽量用黑体或雅黑
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/004.gif)
 
-## 5.2 PA口袋动画插件
+## 6.2 PA口袋动画插件
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/005.gif)
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append67.jpg)
 
-# 6. Demo
+# 7. 效率
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/52.png)
+
+- 快捷键
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/53.png)
+
+- 母版
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/54.png)
+
+- 设定默认
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/55.png)
+
+- 格式刷
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/56.png)
+
+# 8. 逻辑
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/57.png)
+
+按照下面的顺序去梳理逻辑：
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/58.png)
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/59.png)
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/60.png)
+
+
+# 9. Demo
 
 [Demo](https://github.com/tianhuaban527/DesignNote/blob/master/Demo.md)
+
+
+![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/63.png)
 
 ----
 
