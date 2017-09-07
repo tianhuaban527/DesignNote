@@ -1,5 +1,4 @@
 # [我的设计笔记](https://github.com/tianhuaban527/DesignNote)
-# [我的设计笔记](https://github.com/tianhuaban527/DesignNote)
 
 ![](https://raw.githubusercontent.com/tianhuaban527/DesignNote/master/PIC/append01.jpg)
 
